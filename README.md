@@ -1,4 +1,4 @@
-# this program converts binary numbes to decimal
+# this program converts binary numbers to decimal
 
 def bin2dec(num):
   # takes a binary number as an input and returns the binary equivalent
